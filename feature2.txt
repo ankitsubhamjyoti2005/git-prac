@@ -1,3 +1,5 @@
 1)this is firtst line in feature 2.txt
 
 2)2nd fratur in feature.txt
+
+3)ffeature 3 is inject
